@@ -1,0 +1,6 @@
+[submodule "ed25519-dalek"]
+	path = ed25519-dalek
+	url = https://github.com/jakmeier/ed25519-dalek.git
+[submodule "curve25519-dalek"]
+	path = curve25519-dalek
+	url = https://github.com/jakmeier/curve25519-dalek.git
